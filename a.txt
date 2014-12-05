@@ -5,4 +5,9 @@ create a new branch is simple and quick
 =======
 create a new branch is simple and quick
 >>>>>>> feature1
+<<<<<<< HEAD
 branch management is wonderful
+=======
+branch management
+bug git now
+>>>>>>> dev
